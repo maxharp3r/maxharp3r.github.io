@@ -1,6 +1,6 @@
 ---
 layout: main.njk
-title: Home
+title: Max Harper
 ---
 
 I am an applied scientist at [Amazon](https://www.amazon.com/) on the 
