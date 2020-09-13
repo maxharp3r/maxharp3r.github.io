@@ -3,11 +3,11 @@ layout: main.njk
 title: Home
 ---
 
-I was *formerly* a research scientist at [GroupLens](http://grouplens.org),
-the social computing group at the [University of Minnesota
-Department of Computer Science and Engineering](http://www.cs.umn.edu).
-Among other things, I worked on the [MovieLens](http://movielens.org) project.
-I am currently taking time off, I'll share changes soon.
+I am an applied scientist at [Amazon](https://www.amazon.com/) on the 
+[Alexa Shopping](https://www.amazon.com/alexa-voice-shopping/b?ie=UTF8&node=14552177011) science team.
+I was formerly a research scientist at [GroupLens](http://grouplens.org),
+the social computing group at the [University of Minnesota](http://www.cs.umn.edu), 
+where I worked on the [MovieLens](http://movielens.org) project.
 
 [curriculum vitae (.pdf)](/static/harper-cv.pdf)
 
@@ -19,7 +19,7 @@ If you'd like to get in contact, how about
 
 <img src="/images/max-umn-edu.png" alt="" style="max-width: 200px;">
 
-## Computer Science Research
+## Research
 
 As a researcher, I build and study personalization technology in online systems.
 I think it is important and interesting to study humans, algorithms, and interfaces together.
@@ -35,4 +35,3 @@ for an exhaustive list of publications. If you'd like to get a sense for my rese
 
 * F. Maxwell Harper, Daniel Moy, and Joseph A. Konstan. 2009. Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q&A Sites. In <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</i> (CHI ’09), 759–768. <a href="https://doi.org/10.1145/1518701.1518819">https://doi.org/10.1145/1518701.1518819</a>
 
-## Old Posts
