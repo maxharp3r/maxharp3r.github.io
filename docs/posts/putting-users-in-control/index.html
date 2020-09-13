@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Description" content="Max Harper, Social Computing and Recommender Systems Research">
+
+    <title>Putting Users in Control of their Recommendations</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/static/favicon.ico">
+</head>
+
+<body>
+    <section class="section">
+    <div class="container">
+
+        <p style="margin-bottom: 1em;">
+            &leftarrow; <a href="/" rel="author">Max Harper</a>
+        </p>
+
+        <h1 class="title">Putting Users in Control of their Recommendations</h1>
+
+        <p class="subtitle">Thu, 24 Sep 2015 18:00:00 GMT</p>
+
+        <div class="content"><p>(<a href="http://grouplens.org/blog/putting-users-in-control-of-their-recommendations/">Cross-posted</a> from the GroupLens blog)</p>
+<p>The music services that I subscribe to don’t understand me very well.
+<a href="http://www.pandora.com">Pandora</a>, which puts together personalized radio stations, seems to think that I only like the very most popular music, which I don’t.
+<a href="http://www.spotify.com">Spotify</a>, which offers a new personalized playlist for me each week, seems to think that I only like quite obscure music.
+But neither of them get it right, and I wish that I could tell them to change.</p>
+<p><img src="/images/pandora-spotify-screenshots.png" alt="screenshots of Pandora and Spotify" title="Pandora and Spotify are “black box” recommenders, where it is difficult to know how to act to repair bad recommendations."></p>
+<p>I cannot tell these services to change how they recommend music to me because they give me no direct control.
+Instead, they give me indirect control: I can listen to songs, skip songs, and provide thumbs up, which in turn changes my recommendations in an unknown fashion.
+Because these recommenders are black boxes, I do not know how my actions impact my recommendations.</p>
+<p>So how do I fix my bad recommendations?</p>
+<p>At the <a href="http://recsys.acm.org/recsys15/">2015 ACM Conference on Recommender Systems</a>, we presented an algorithm and user interface that gives users direct control over a recommender.
+Our algorithm works by giving users the ability to express simple preferences (“more popular”, or “less popular”) by pressing a button; these actions immediately change the resulting set of recommendations, which in turn allows the user to decide if the list is getting better or worse.</p>
+<p>We deployed a prototype of this system in <a href="http://movielens.org">MovieLens</a>, and learned several things:</p>
+<ul>
+<li>Users reported that their adjusted recommendations were more helpful for finding movies to watch, better fit their preferences, and were more appropriate in terms of popularity, as compared with their original, unadjusted list.</li>
+<li>Different users used the popularity controls very differently. Some wished to preserve the existing MovieLens recommendation behavior. Others wished to completely change the nature of their top recommendations.</li>
+<li>Most users wanted the recommender to become more popular (apparently MovieLens recommends, on average, movies that are too obscure). A minority wished the recommender to become more obscure.</li>
+</ul>
+<p>Want the details? Check out the paper.</p>
+<blockquote>
+<p>F. Maxwell Harper, Funing Xu, Harmanpreet Kaur, Kyle Condiff, Shuo Chang, and Loren Terveen. 2015. Putting Users in Control of Their Recommendations. Proceedings of the 9th ACM Conference on Recommender Systems, ACM, 3–10.</p>
+</blockquote>
+<ul>
+<li>Direct link to author version: <a href="http://files.grouplens.org/papers/harper-recsys2015.pdf">http://files.grouplens.org/papers/harper-recsys2015.pdf</a></li>
+<li>Version of record: <a href="http://dl.acm.org/citation.cfm?id=2800179">http://dl.acm.org/citation.cfm?id=2800179</a></li>
+</ul>
+</div>
+
+    </div>
+</section>
+
+</body>
+</html>

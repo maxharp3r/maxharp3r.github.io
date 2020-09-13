@@ -1,0 +1,25 @@
+---
+layout: base.njk
+---
+<section class="section">
+    <div class="container">
+
+        <figure class="image is-128x128" style="margin-bottom: 2em;">
+            <img class="is-rounded" src="/images/max.jpg" alt="picture of Max Harper">
+        </figure>
+
+        <h1 class="title">Max Harper</h1>
+        <h2 class="subtitle">Social Computing and Recommender Systems Researcher</h2>
+
+        <div class="content">
+            {{ content | safe }}
+
+            <ul>
+                {%- for post in collections.post | reverse -%}
+                    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+                {%- endfor -%}
+            </ul>
+        </div>
+
+    </div>
+</section>

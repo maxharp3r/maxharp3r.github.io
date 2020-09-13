@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+<section class="section">
+    <div class="container">
+
+        <p style="margin-bottom: 1em;">
+            &leftarrow; <a href="/" rel="author">Max Harper</a>
+        </p>
+
+        <h1 class="title">{{ title }}</h1>
+
+        <p class="subtitle">{{ page.date.toUTCString() }}</p>
+
+        <div class="content">{{ content | safe }}</div>
+
+    </div>
+</section>
