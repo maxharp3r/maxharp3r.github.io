@@ -9,15 +9,15 @@ I was formerly a research scientist at [GroupLens](http://grouplens.org),
 the social computing group at the [University of Minnesota](http://www.cs.umn.edu), 
 where I worked on the [MovieLens](http://movielens.org) project.
 
-[curriculum vitae (.pdf)](/static/harper-cv.pdf)
+[resume (.pdf)](/static/harper-resume.pdf)
 
 [publications (Google Scholar)](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra)
 
 If you'd like to get in contact, how about
-[LinkedIn](https://www.linkedin.com/in/maxharper),
-[Twitter](https://twitter.com/maxharp3r), or email:
+[LinkedIn](https://www.linkedin.com/in/maxharper) 
+or email:
 
-<img src="/images/max-umn-edu.png" alt="" style="max-width: 200px;">
+<img src="/images/max-email-gmail.png" alt="" style="max-width: 200px;">
 
 ## Research
 
