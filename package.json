@@ -1,0 +1,22 @@
+{
+  "name": "maxharp3r.github.io",
+  "version": "1.0.0",
+  "description": "max's website",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "0.12.1"
+  },
+  "scripts": {
+    "clean": "rm -rf docs/*",
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve",
+    "cpcv": "cp ../fmh-cv/harper-cv.pdf ./src/static/ && cp ../fmh-cv/harper-resume.pdf ./src/static/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxharp3r/maxharp3r.github.io.git"
+  },
+  "author": "Max Harper",
+  "license": "",
+  "homepage": "https://maxharp3r.github.io"
+}
