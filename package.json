@@ -2,9 +2,8 @@
   "name": "maxharp3r.github.io",
   "version": "1.0.0",
   "description": "max's website",
-  "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "0.12.1"
+    "@11ty/eleventy": "^1.0.2"
   },
   "scripts": {
     "clean": "rm -rf docs/*",

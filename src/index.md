@@ -3,10 +3,9 @@ layout: main.njk
 title: Max Harper
 ---
 
-I am an applied scientist at [Amazon](https://www.amazon.com/) on the 
-[Alexa Shopping](https://www.amazon.com/alexa-voice-shopping/b?ie=UTF8&node=14552177011) science team.
-I was formerly a research scientist at [GroupLens](http://grouplens.org),
-the social computing group at the [University of Minnesota](http://www.cs.umn.edu), 
+I am a data scientist that most recently worked at [Amazon](https://www.amazon.com/) on the 
+[Alexa Shopping](https://www.amazon.com/alexa-voice-shopping/b?ie=UTF8&node=14552177011) science team, and 
+at the [GroupLens Center for Social and Human-Centered Computing](http://grouplens.org),
 where I worked on the [MovieLens](http://movielens.org) project.
 
 [resume (.pdf)](/static/harper-resume.pdf)
