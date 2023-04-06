@@ -8,9 +8,9 @@ I am a researcher and data scientist that most recently worked at [Amazon](https
 at the [GroupLens Center for Social and Human-Centered Computing](http://grouplens.org),
 where I worked on the [MovieLens](http://movielens.org) project.
 
-[resume (.pdf)](/static/harper-resume.pdf)
+<!-- [resume (.pdf)](/static/harper-resume.pdf) -->
 
-[publications (Google Scholar)](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra)
+<!-- [publications (Google Scholar)](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra) -->
 
 If you'd like to get in contact, how about
 [LinkedIn](https://www.linkedin.com/in/maxharper) 
