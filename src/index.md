@@ -3,7 +3,7 @@ layout: main.njk
 title: Max Harper
 ---
 
-I am a data scientist that most recently worked at [Amazon](https://www.amazon.com/) on the 
+I am a researcher and data scientist that most recently worked at [Amazon](https://www.amazon.com/) on the 
 [Alexa Shopping](https://www.amazon.com/alexa-voice-shopping/b?ie=UTF8&node=14552177011) science team, and 
 at the [GroupLens Center for Social and Human-Centered Computing](http://grouplens.org),
 where I worked on the [MovieLens](http://movielens.org) project.
